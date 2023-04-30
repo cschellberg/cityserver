@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name cityapp-dynamodb --template-body file:////Users/dsche/myworkspace/cityserver/deploy/dynamo_db.yaml
